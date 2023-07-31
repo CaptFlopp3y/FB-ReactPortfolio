@@ -5,13 +5,13 @@ import soonImg from './assets/Coming soon.avif';
 
 const galleryData = [
     {
-        title: 'Flexcellent | Pico CSS, JavaScript',
+        title: 'Flexcellent | Handlebars, Express JS, MySQL, Sequelize',
         deployedLink: 'https://flexcellent-fitness.herokuapp.com/',
         gitHubLink: 'https://github.com/pbodybrooks/Flexcellent-Fitness-Tracker',
         image: FlexImg
     },
     {
-        title: 'Stream Machine',
+        title: 'Stream Machine | CSS, JavaScript',
         deployedLink: '',
         gitHubLink: 'https://github.com/zwcook801/Debug_Thugz',
         image: streamImg
