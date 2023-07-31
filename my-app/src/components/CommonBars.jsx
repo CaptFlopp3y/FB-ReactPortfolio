@@ -1,6 +1,6 @@
 import React from 'react';
-import gitHubImg from '';
-import linkedInImg from '';
+import gitHubImg from './assets/png-github.png';
+import linkedInImg from './assets/linkedIn.webp';
 
 function TopNav({ page, pageContentHandler }) {
 
