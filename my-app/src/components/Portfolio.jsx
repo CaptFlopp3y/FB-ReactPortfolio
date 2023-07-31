@@ -1,29 +1,32 @@
 import React from 'react';
+import FlexImg from './assets/flexcellent-logo.png';
+import streamImg from './assets/stream.png';
+import soonImg from './assets/Coming soon.avif';
 
 const galleryData = [
     {
         title: 'Flexcellent | Pico CSS, JavaScript',
         deployedLink: 'https://flexcellent-fitness.herokuapp.com/',
         gitHubLink: 'https://github.com/pbodybrooks/Flexcellent-Fitness-Tracker',
-        image: ','
+        image: FlexImg
+    },
+    {
+        title: 'Stream Machine',
+        deployedLink: '',
+        gitHubLink: 'https://github.com/zwcook801/Debug_Thugz',
+        image: streamImg
     },
     {
         title: 'Coming soon!',
         deployedLink: '',
         gitHubLink: '',
-        image: '',
+        image: soonImg
     },
     {
         title: 'Coming soon!',
         deployedLink: '',
         gitHubLink: '',
-        image: '',
-    },
-    {
-        title: 'Coming soon!',
-        deployedLink: '',
-        gitHubLink: '',
-        image: '',
+        image: soonImg
     }
 ];
 export default function Portfolio() {
