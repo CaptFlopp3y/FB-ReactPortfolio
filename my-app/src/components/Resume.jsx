@@ -1,5 +1,5 @@
 import React from 'react';
-import resumePDF from ''
+import resumePDF from './assets/Fabian-Barranco.pdf'
 
 export default function Resume() {
     return (

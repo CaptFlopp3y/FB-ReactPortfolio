@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import AboutMe from './About';
-import Contact from './ContactTab.jsx';
+import Contact from './ContactTab';
 import Portfolio from './Portfolio';
 import Resume from './Resume';
 import { TopNav, Header, Footer } from './CommonBars';
