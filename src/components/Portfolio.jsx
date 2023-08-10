@@ -2,6 +2,8 @@ import React from 'react';
 import FlexImg from './assets/flexcellent-logo.png';
 import streamImg from './assets/stream.png';
 import soonImg from './assets/Coming soon.avif';
+import hoopZone from './assets/HoopZone.jpg';
+import books from './assets/books.jpg'
 
 const galleryData = [
     {
@@ -17,16 +19,16 @@ const galleryData = [
         image: streamImg
     },
     {
-        title: 'Coming soon!',
-        deployedLink: '',
-        gitHubLink: '',
-        image: soonImg
+        title: 'Hope Zone | Javascript, React, MongoDB, Express ',
+        deployedLink: 'https://hoopzone-1b405b9f7e9d.herokuapp.com/FavoriteTeams',
+        gitHubLink: 'https://github.com/hattiesteed/super-awesome',
+        image: hoopZone
     },
     {
-        title: 'Coming soon!',
-        deployedLink: '',
-        gitHubLink: '',
-        image: soonImg
+        title: 'Books are Life',
+        deployedLink: 'https://googlebookss-e20087324bb4.herokuapp.com/',
+        gitHubLink: 'https://github.com/CaptFlopp3y/BooksAreLife',
+        image: books
     }
 ];
 export default function Portfolio() {
