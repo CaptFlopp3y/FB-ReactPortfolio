@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FB-ReactPortfolio/static/css/main.7637d91c.css",
-    "main.js": "/FB-ReactPortfolio/static/js/main.eb038a27.js",
+    "main.js": "/FB-ReactPortfolio/static/js/main.646c5a29.js",
     "static/js/787.c0c124d5.chunk.js": "/FB-ReactPortfolio/static/js/787.c0c124d5.chunk.js",
     "static/media/flexcellent-logo.png": "/FB-ReactPortfolio/static/media/flexcellent-logo.30aa0a9ad07c1620ce7b.png",
     "static/media/books.jpg": "/FB-ReactPortfolio/static/media/books.66a2a2d7c24b907f1b0f.jpg",
@@ -13,11 +13,11 @@
     "static/media/linkedIn.webp": "/FB-ReactPortfolio/static/media/linkedIn.c593fb09e0e564af375e.webp",
     "index.html": "/FB-ReactPortfolio/index.html",
     "main.7637d91c.css.map": "/FB-ReactPortfolio/static/css/main.7637d91c.css.map",
-    "main.eb038a27.js.map": "/FB-ReactPortfolio/static/js/main.eb038a27.js.map",
+    "main.646c5a29.js.map": "/FB-ReactPortfolio/static/js/main.646c5a29.js.map",
     "787.c0c124d5.chunk.js.map": "/FB-ReactPortfolio/static/js/787.c0c124d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7637d91c.css",
-    "static/js/main.eb038a27.js"
+    "static/js/main.646c5a29.js"
   ]
 }
