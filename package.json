@@ -2,7 +2,7 @@
   "name": "resumeapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://captflopp3y.github.io/",
+  "homepage": "https://captflopp3y.github.io/FB-ReactPortfolio/",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.17.0",
