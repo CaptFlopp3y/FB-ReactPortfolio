@@ -25,7 +25,7 @@ const AppNavbar = () => {
                     </Offcanvas.Header>
                     <Offcanvas.Body>
                         <Nav className="justify-content-end flex-grow-1 pe-3">
-                            <Nav.Link as={NavLink} to='/'>Home</Nav.Link>
+                            <Nav.Link as={NavLink} to='/FB-ReactPortfolio'>Home</Nav.Link>
                             <Nav.Link as={NavLink} to='/contactme'>Contact Page</Nav.Link>
                             <Nav.Link as={NavLink} to='/projects'>Projects</Nav.Link>
                         </Nav>
