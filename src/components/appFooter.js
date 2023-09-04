@@ -29,7 +29,7 @@ const AppFooter = () => {
                     </section></Col>
                     <Col xs={12} md={4}><Offcanvas.Body>
                         <Nav className="footerRoutes">
-                            <Nav.Link as={NavLink} to='/'>Home</Nav.Link>
+                            <Nav.Link as={NavLink} to='/FB-ReactPortfolio'>Home</Nav.Link>
                             <Nav.Link as={NavLink} to='/contactme'>Contact Page</Nav.Link>
                             <Nav.Link as={NavLink} to='/projects'>Projects</Nav.Link>
                         </Nav>
@@ -39,5 +39,6 @@ const AppFooter = () => {
         </footer>
     );
 };
+
 
 export default AppFooter
