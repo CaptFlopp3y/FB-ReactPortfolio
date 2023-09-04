@@ -11,7 +11,7 @@ function App() {
     <Router>
       <AppNavbar />
       <Routes>
-        <Route exact path='/' element={<HomePage />} />
+        <Route exact path='/FB-ReactPortfolio' element={<HomePage />} />
         <Route exact path='/contactme' element={<ContactPage />} />
         <Route exact path='/projects' element={<ProjectPage />} />
         <Route path='*' element={<h1 className='display-2'>Wrong page!</h1>} />
