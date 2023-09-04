@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/FB-ReactPortfolio/static/css/main.7637d91c.css",
-    "main.js": "/FB-ReactPortfolio/static/js/main.646c5a29.js",
-    "static/js/787.c0c124d5.chunk.js": "/FB-ReactPortfolio/static/js/787.c0c124d5.chunk.js",
-    "static/media/flexcellent-logo.png": "/FB-ReactPortfolio/static/media/flexcellent-logo.30aa0a9ad07c1620ce7b.png",
-    "static/media/books.jpg": "/FB-ReactPortfolio/static/media/books.66a2a2d7c24b907f1b0f.jpg",
-    "static/media/DSC5940.jpg": "/FB-ReactPortfolio/static/media/DSC5940.a646a431661c4a303fa2.jpg",
-    "static/media/stream.png": "/FB-ReactPortfolio/static/media/stream.1c473678b83b96b6c417.png",
-    "static/media/techBlogger.png": "/FB-ReactPortfolio/static/media/techBlogger.513eaac23d850e045cf5.png",
-    "static/media/png-github.png": "/FB-ReactPortfolio/static/media/png-github.e7a18774e43935aeb6a3.png",
-    "static/media/Coming soon.avif": "/FB-ReactPortfolio/static/media/Coming soon.787f91743921128aa718.avif",
-    "static/media/linkedIn.webp": "/FB-ReactPortfolio/static/media/linkedIn.c593fb09e0e564af375e.webp",
-    "index.html": "/FB-ReactPortfolio/index.html",
-    "main.7637d91c.css.map": "/FB-ReactPortfolio/static/css/main.7637d91c.css.map",
-    "main.646c5a29.js.map": "/FB-ReactPortfolio/static/js/main.646c5a29.js.map",
-    "787.c0c124d5.chunk.js.map": "/FB-ReactPortfolio/static/js/787.c0c124d5.chunk.js.map"
+    "main.css": "/static/css/main.a19b56d2.css",
+    "main.js": "/static/js/main.3edac5fd.js",
+    "static/js/787.c0c124d5.chunk.js": "/static/js/787.c0c124d5.chunk.js",
+    "static/media/flexcellent-logo.png": "/static/media/flexcellent-logo.30aa0a9ad07c1620ce7b.png",
+    "static/media/books.jpg": "/static/media/books.66a2a2d7c24b907f1b0f.jpg",
+    "static/media/DSC5940.jpg": "/static/media/DSC5940.a646a431661c4a303fa2.jpg",
+    "static/media/stream.png": "/static/media/stream.1c473678b83b96b6c417.png",
+    "static/media/techBlogger.png": "/static/media/techBlogger.513eaac23d850e045cf5.png",
+    "static/media/png-github.png": "/static/media/png-github.e7a18774e43935aeb6a3.png",
+    "static/media/Coming soon.avif": "/static/media/Coming soon.787f91743921128aa718.avif",
+    "static/media/linkedIn.webp": "/static/media/linkedIn.c593fb09e0e564af375e.webp",
+    "index.html": "/index.html",
+    "main.a19b56d2.css.map": "/static/css/main.a19b56d2.css.map",
+    "main.3edac5fd.js.map": "/static/js/main.3edac5fd.js.map",
+    "787.c0c124d5.chunk.js.map": "/static/js/787.c0c124d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7637d91c.css",
-    "static/js/main.646c5a29.js"
+    "static/css/main.a19b56d2.css",
+    "static/js/main.3edac5fd.js"
   ]
 }
